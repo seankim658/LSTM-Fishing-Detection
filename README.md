@@ -1,3 +1,3 @@
 # CSCI 6907 Fishing Detection  
   
-This project repo is for Sean Kim's CSCI 6907 Neural Networks final project: detecting fishing activity using [anonymized AIS data](https://globalfishingwatch.org/data-download/datasets/public-training-data-v1) collected by the [Global Fishing Watch](https://globalfishingwatch.org/). 
+This project repo is for Sean Kim's CSCI 6907 Neural Networks final project: detecting fishing activity using [anonymized AIS data](https://globalfishingwatch.org/data-download/datasets/public-training-data-v1) collected by the [Global Fishing Watch](https://globalfishingwatch.org/). Due to the combined size of the data and Github's bandwidth/storage limiations on free accounts, the 7 csv files are only saved locally. They can be downloaded from the link above. 
